@@ -1,0 +1,6 @@
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\bin\Debug\TPModule3.exe.config
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\bin\Debug\TPModule3.exe
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\bin\Debug\TPModule3.pdb
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\obj\Debug\TPModule3.csprojAssemblyReference.cache
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\obj\Debug\TPModule3.exe
+C:\Users\cbreyne2019\source\repos\TPModule3\TPModule3\obj\Debug\TPModule3.pdb
